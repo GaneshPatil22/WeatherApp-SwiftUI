@@ -58,7 +58,7 @@ struct WeatherAppView: View {
     var body: some View {
         if isLoading {
             ZStack {
-                Text("Hello, World!")
+                Text("Hello, World! ")
                     
             }
         } else {
